@@ -1,0 +1,2 @@
+Slom Ali! sizning emaillingiz -> @ali (True)
+Slom Vali! sizning emaillingiz -> @vali (True)
